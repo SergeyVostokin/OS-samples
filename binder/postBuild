@@ -1,1 +1,1 @@
-conda install -c conda-forge xeus-cling
+mamba install -c conda-forge xeus-cling
